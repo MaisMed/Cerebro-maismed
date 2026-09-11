@@ -1,0 +1,7 @@
+{
+  "name": "cerebro-maismed-free",
+  "version": "1.0.0",
+  "main": "server-free.js",
+  "scripts": { "start": "node server-free.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
